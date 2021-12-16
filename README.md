@@ -42,5 +42,8 @@ The Results above shows that the Decisions Tree gave the best results.
 - LinearRegression
 
 ## Communication 
-- ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/RF.png)
+- A comparison between the Closing price and the other numaric values
+![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/Comp.png)
+- The Closing Price 
+![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/Close.png)
 
