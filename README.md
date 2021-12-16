@@ -23,9 +23,11 @@ Volume  | Number of shares
 ## Algorithm 
 #### To solve this problem, I used 3 Algorithem to see which one will give the best results, and right before I've created a new column and call it prediction and give it a value from 'x' days from the future (taken from the Close column) and then used these models and compare them with the orig one. 
 
-Algorithm  |  
-------------- |
-Liner Regression  | 
-Decision Tree  | 
-Random Forest  | 
+Algorithm  |  Results 
+------------- | -------------
+Liner Regression  | ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Decision Tree  | ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Random Forest  | ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+The Results shows that the 
 
