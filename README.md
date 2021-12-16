@@ -26,8 +26,8 @@ Volume  | Number of shares
 Algorithm  |  Results 
 ------------- | -------------
 Liner Regression  | ![This is an image](Assets/LR.png)
-Decision Tree  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/DT.png)
-Random Forest  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/RF.png)
+Decision Tree  | ![This is an image](Assets/DT.png)
+Random Forest  | ![This is an image](Assets/RF.png)
 
 The Results above shows that the Decisions Tree gave the best results.
 
@@ -43,7 +43,7 @@ The Results above shows that the Decisions Tree gave the best results.
 
 ## Communication 
 - A comparison between the Closing price and the other numaric values
-![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/Comp.png)
+![This is an image](Assets/Comp.png)
 - The Closing Price 
-![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/Close.png)
+![This is an image](Assets/Close.png)
 
