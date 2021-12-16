@@ -25,7 +25,7 @@ Volume  | Number of shares
 
 Algorithm  |  Results 
 ------------- | -------------
-Liner Regression  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/LR.png)
+Liner Regression  | ![This is an image](Assets/LR.png)
 Decision Tree  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/DT.png)
 Random Forest  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/RF.png)
 
