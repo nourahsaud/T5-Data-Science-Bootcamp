@@ -8,26 +8,20 @@
 #### The data provided by Yahoo finance, and it's Almost clean and ready to use, I checked the missing values, dublicats and noisy data, after that I've created some visualisation, and lastly applied the models.
 
 ## Data
-#### The AAPL dataset which was used in this case study has been taken from Yahoo Finance, it has the following Variables:
+#### The AAPL dataset which was used in this case study has been taken from Yahoo Finance, it has 7 columns and 8050 Rows,
 
-First Header  | Second Header
+Variable  | Description 
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Date  | Date
+Open  | Opening Price
+High  | Highest price 
+Low  | Lowest price
+Close  | Closing price
+Adj Close  | The adjusted closing price
+Volume  | Number of shares
 
 
-Date 
-Open
-High
-Low
-Close
-Adj Close
-Volume
-Date
-Opening Price
-Highest price  
-Lowest price
-Closing price
-The adjusted closing price
-Number of shares
-7 columns and 8050 Rows
+
+
+
+
