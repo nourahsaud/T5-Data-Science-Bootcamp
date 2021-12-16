@@ -1,1 +1,2 @@
-# T5-Data-Science-Bootcamp
+## Predicting the Apple inc. Stock Closing Price 
+### Nourah Alsaadan
