@@ -29,5 +29,18 @@ Liner Regression  | ![This is an image](https://github.com/nourahsaud/T5-Data-Sc
 Decision Tree  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/DT.png)
 Random Forest  | ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/RF.png)
 
-The Results shows that the 
+The Results above shows that the Decisions Tree gave the best results.
+
+## Tools
+#### The tools used to solve this problem:
+- Numpy
+- Pandas
+- Matplotlip 
+- Seaborn
+- DecisionTreeRegressor
+- RandomForestRegressor
+- LinearRegression
+
+## Communication 
+- ![This is an image](https://github.com/nourahsaud/T5-Data-Science-Bootcamp/tree/main/Assets/RF.png)
 
